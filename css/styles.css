@@ -5,15 +5,15 @@ body {
     
       hr{
 	border-style: none;
-	border-top-style: dotted;
-	background-color: lightblue;
+	border-top-style: solid;
+	background-color: white;
 	border-width: px;
-	height: 12px;
-	width: 4%;
+	height: 30;
+	width: 6%;
     
       }
-      h1 { color: grey; }
-      h3 {color:grey }
+      h1 { color: white; }
+      h3 {color:white }
     
     
     .test_class{
