@@ -1,0 +1,22 @@
+body {
+	background-color: lightblue;
+    
+      }
+    
+      hr{
+	border-style: none;
+	border-top-style: dotted;
+	background-color: lightblue;
+	border-width: px;
+	height: 12px;
+	width: 4%;
+    
+      }
+      h1 { color: grey; }
+      h3 {color:grey }
+    
+    
+    .test_class{
+    
+    }
+    
